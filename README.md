@@ -30,5 +30,3 @@ const me:profile = {
 
 pretend_I_coded_a_log_function(me);
 ```
-<p>fun fact: the card below is wrong<p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inkiralet&show_icons=true&locale=en&layout=compact" alt="inkiralet"></p>
