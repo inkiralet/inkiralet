@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Kirara</h1>
-<h3 align="center">A weird developer from Brazil</h3>
 
 ```typescript
 🔴 🟡 🟢
 
-// nice to see you :)
+// nice to meet you :)
 
 interface profile {  
     "informations": {
@@ -18,7 +17,7 @@ interface profile {
 const me:profile = {
     "informations": {
         "name": "Kirara",
-        "age": "23yo",
+        "age": "25yo",
         "languages": [ "js", "ts"], //I've actually coded in many languages (don't do that)
         "idk": `
         I'm currently "studying" typescript.
@@ -28,5 +27,5 @@ const me:profile = {
     }
 } 
 
-pretend_I_coded_a_log_function(me);
+Log(me);
 ```
