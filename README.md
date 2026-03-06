@@ -18,7 +18,7 @@ const me:profile = {
     "informations": {
         "name": "Kirara",
         "age": "25yo",
-        "languages": [ "js", "ts"], //I've actually coded in many languages (don't do that)
+        "languages": ["ts"], //I've actually coded in many languages (don't do that)
         "idk": `
         I'm currently "studying" typescript.
 
