@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kirara</h1>
+<h1 align="center">Hi, Ink here!</h1>
 
 ```typescript
 🔴 🟡 🟢
